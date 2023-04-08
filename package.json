@@ -23,7 +23,7 @@
     "@metalsmith/table-of-contents": "^1.0.0",
     "anchor-js": "^4.3.1",
     "autoprefixer": "^10.4.13",
-    "browser-sync": "^2.27.11",
+    "browser-sync": "^2.29.1",
     "cheerio": "^1.0.0-rc.12",
     "chokidar": "^3.5.3",
     "cross-env": "^7.0.3",
